@@ -1,11 +1,6 @@
 // header.h
 /******************************************************************************/
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #6.   DUE Thursday 4/28
-*/
+/* PROGRAMMER:  Miguel Herrnsdorf */
 /*DESCRIPTION: header file contains common constants, declarations, prototypes 
 * & type declarations that are used by process.c and memfunc.c
 */
